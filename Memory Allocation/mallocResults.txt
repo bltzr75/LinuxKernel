@@ -1,0 +1,11 @@
+We've got 8 elements to allocate memory to
+ Memory Allocation Succesful using Malloc() !
+Inserted 8 elements in the block are as follows: 
+Pointer's Array Element 1, in address 0x5599b6f5d270 
+Pointer's Array Element 2, in address 0x5599b6f5d274 
+Pointer's Array Element 3, in address 0x5599b6f5d278 
+Pointer's Array Element 4, in address 0x5599b6f5d27c 
+Pointer's Array Element 5, in address 0x5599b6f5d280 
+Pointer's Array Element 6, in address 0x5599b6f5d284 
+Pointer's Array Element 7, in address 0x5599b6f5d288 
+Pointer's Array Element 8, in address 0x5599b6f5d28c 

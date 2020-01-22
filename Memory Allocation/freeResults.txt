@@ -1,0 +1,3 @@
+We've got 8 elements to allocate memory to
+ Memory Allocation Succesful using Calloc() !
+Calloc Deallocated Succestully using Free() 

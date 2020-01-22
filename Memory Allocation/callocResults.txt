@@ -1,0 +1,11 @@
+We've got 8 elements to allocate memory to
+ Memory Allocation Succesful using Calloc() !
+Inserted 8 elements in the block are as follows: 
+Pointer's Array Element 1, in address 0x5578ac582270 
+Pointer's Array Element 2, in address 0x5578ac582274 
+Pointer's Array Element 3, in address 0x5578ac582278 
+Pointer's Array Element 4, in address 0x5578ac58227c 
+Pointer's Array Element 5, in address 0x5578ac582280 
+Pointer's Array Element 6, in address 0x5578ac582284 
+Pointer's Array Element 7, in address 0x5578ac582288 
+Pointer's Array Element 8, in address 0x5578ac58228c 
